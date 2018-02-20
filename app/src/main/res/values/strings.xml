@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Habos Mákos \nCake Shop</string>
+    <string name="land">Habos Mákos Cake Shop</string>
+    <string name="address">Hunyad János utca 43\n2523 Sárisáp\nHungary</string>
+    <string name="phone">+36203733135</string>
+    <string name="web">www.habosmakos.hu</string>
+</resources>
